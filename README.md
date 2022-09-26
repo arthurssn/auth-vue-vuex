@@ -23,13 +23,13 @@ git clone https://github.com/arthurssn/auth-vue-vuex.git
 2. Instalar dependências:
 
 ```
+cd auth-vue-vuex
 npm install
 ```
 
 3. Rodar o projeto :)
 
 ```
-cd auth-vue-vuex
 npm run serve
 ```
 
