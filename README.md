@@ -17,7 +17,7 @@ Siga as instruções para iniciar o servidor, então volte aqui para configurar 
 1. Clonar repositório
 
 ```
-git clone <link repo>
+git clone https://github.com/arthurssn/auth-vue-vuex.git
 ```
 
 2. Instalar dependências:
